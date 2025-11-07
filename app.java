@@ -1,9 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-<meta charset="UTF-8">
+        System.out.println("Hello, World!
+<meta charset"UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Simple Webpage</title>
 </head>
@@ -13,3 +11,6 @@ public class HelloWorld {
     <p>You can add more content here, like images or links.</p>
 </body>
 </html>
+=======
+adding the code}
+>>>>>>> Stashed changes
