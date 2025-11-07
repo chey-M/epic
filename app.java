@@ -3,3 +3,13 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Page!</h1>
+    <p>This is a paragraph of text on my simple webpage.</p>
+    <p>You can add more content here, like images or links.</p>
+</body>
+</html>
